@@ -4,7 +4,7 @@ namespace snakes
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); //amogus
         }
     }
 }
