@@ -4,7 +4,13 @@ namespace snakes
     {
         public Form1()
         {
-            InitializeComponent(); //amogus
+            InitializeComponent(); 
+        }
+        //ne
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

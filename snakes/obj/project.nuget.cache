@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SENv4Fwe80DGmbbn3N+GhneTtwDcyd4AFk8bF+kc/8e+RYbRgrv7bGtFl1FNQc1CWoTdA+LW9OWKSSii7exJcA==",
+  "dgSpecHash": "Kd53maSAWHfp8AoAHnCOQNKD7ov79XNO2uIzVAwnRZLMhdSItMt/ZmkO7BOMn3Ibrdp2HJRQdC1itRrdzchtTw==",
   "success": true,
-  "projectFilePath": "C:\\projekts\\visual studio\\snakes\\snakes.csproj",
+  "projectFilePath": "C:\\projekts\\visual studio\\Snake-Colab\\snake\\snakes\\snakes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
