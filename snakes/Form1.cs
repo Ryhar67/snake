@@ -8,6 +8,7 @@ namespace snakes
         }
         //ne
         //jkdshfakjshdkj
+        ///flkasnjdflksajdlkfsdkjfhskdajh fbkjhdsbvnhbfdskc j
 
         private void Form1_Load(object sender, EventArgs e)
         {
